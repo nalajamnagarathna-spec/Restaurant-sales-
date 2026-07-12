@@ -20,6 +20,20 @@ Power Query
 
 Data Cleaning
 
+# 📊 Dashboard Overview
+
+**### Key KPIs**
+
+- 💰 Total Sales: **161.25**
+- 💵 Total Unit Price: **95.85**
+- 🛒 Total Orders: **620**
+- ⭐ Average Customer Rating: **4.80**
+- 📈 Average Sales: **17.45**
+
+![Uploading WhatsApp Image 2026-07-12 at 20.10.16 (1).jpeg…]()
+
+
+
 **Data Modeling**:
 
 **📊 Restaurant Sales Dashboard – Key Analysis Performed**:
@@ -115,3 +129,11 @@ The third quarter showed the strongest business performance.
 📊 Q3 delivered the highest quarterly sales performance (6.81).
 
 🎯 The dashboard helps identify top-performing products, customer preferences, sales trends, and ordering patterns, enabling better inventory management and data-driven business decisions.
+
+
+
+
+
+
+
+
