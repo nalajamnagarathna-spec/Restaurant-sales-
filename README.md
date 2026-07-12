@@ -1,6 +1,6 @@
-****🍽️ Restaurant Sales Analytics Dashboard**
+**🍽️ Restaurant Sales Analytics Dashboard**
 
-**📌 Project Overview**:**
+**📌 Project Overview**:
 An interactive Restaurant Sales Dashboard built using Power BI to analyze restaurant sales, customer purchasing behavior, menu performance, and restaurant location performance. The dashboard provides actionable insights through interactive visualizations.
 
 **🎯 Project Objective**:
