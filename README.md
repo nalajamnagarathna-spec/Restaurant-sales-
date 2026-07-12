@@ -4,8 +4,11 @@ The objective of this project is to analyze restaurant sales data and identify s
 
 
 **🛠️ Tools & Technologies**:
+
 Power BI
+
 Excel / CSV Dataset
+
 DAX Measures
 Power Query
 Data Cleaning
