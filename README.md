@@ -22,7 +22,7 @@ Data Cleaning
 
 # 📊 Dashboard Overview
 
-**### Key KPIs**
+**Key KPIs**
 
 - 💰 Total Sales: **161.25**
 - 💵 Total Unit Price: **95.85**
