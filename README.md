@@ -71,13 +71,23 @@ Q1 had the lowest average sales (6.24).
 The third quarter showed the strongest business performance.
 
 **💡 Business Insights**:
+
 💰 Total Sales: 161.25
+
 💵 Total Unit Price: 95.85
+
 📈 Average Sales: 17.45
+
 🍺 Craft Beer was the highest-selling and highest-rated menu item.
+
 🥤 Beverages contributed 59.5% of the total sales.
+
 🚚 Delivery was the most preferred order type, accounting for 45% of all orders.
+
 📅 Day 18 achieved the highest daily sales (9.80).
+
 📈 November was the best-performing month (7.52).
+
 📊 Q3 delivered the highest quarterly sales performance (6.81).
+
 🎯 The dashboard helps identify top-performing products, customer preferences, sales trends, and ordering patterns, enabling better inventory management and data-driven business decisions.
