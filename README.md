@@ -30,9 +30,6 @@ Data Cleaning
 - ⭐ Average Customer Rating: **4.80**
 - 📈 Average Sales: **17.45**
 
-![Uploading WhatsApp Image 2026-07-12 at 20.10.16 (1).jpeg…]()
-
-
 
 **Data Modeling**:
 
