@@ -1,136 +1,163 @@
-**🍽️ Restaurant Sales Analytics Dashboard**
+# 🍽️ Restaurant Sales Analytics Dashboard
 
-**📌 Project Overview**:
+## 📖 Project Overview
 
-An interactive Restaurant Sales Dashboard built using Power BI to analyze restaurant sales, customer purchasing behavior, menu performance, and restaurant location performance. The dashboard provides actionable insights through interactive visualizations.
+The **Restaurant Sales Analytics Dashboard** is an interactive Business Intelligence project developed using **Power BI** to analyze restaurant sales performance, customer purchasing behavior, product performance, and ordering trends. The dashboard provides actionable insights through interactive visualizations to support data-driven business decisions.
 
-**🎯 Project Objective**:
+---
 
-The objective of this project is to analyze restaurant sales data and identify sales trends, top-performing menu items, customer preferences, and restaurant performance to support data-driven business decisions.
+## 🎯 Project Objective
 
+The objective of this project is to analyze restaurant sales data to identify sales trends, top-performing products, customer preferences, and restaurant performance. The dashboard enables stakeholders to monitor key metrics and optimize business operations.
 
-**🛠️ Tools & Technologies**:
+---
 
-Power BI
-Excel / CSV Dataset
+## 🛠️ Tech Stack
 
-DAX Measures
+- Power BI
+- Microsoft Excel / CSV
+- Power Query
+- DAX (Data Analysis Expressions)
+- Python (Pandas) – Data Cleaning & Preprocessing *(Optional)*
+- GitHub
 
-Power Query
+---
 
-Data Cleaning
+## 📊 Dashboard Features
 
-# 📊 Dashboard Overview
+- Interactive KPI Cards
+- Dynamic Filters & Slicers
+- Product Performance Analysis
+- Category-wise Sales Analysis
+- Order Type Analysis
+- Customer Rating Analysis
+- Daily, Monthly & Quarterly Sales Trends
+- Business Insights Dashboard
 
-**Key KPIs**
+---
 
-- 💰 Total Sales: **161.25**
-- 💵 Total Unit Price: **95.85**
-- 🛒 Total Orders: **620**
-- ⭐ Average Customer Rating: **4.80**
-- 📈 Average Sales: **17.45**
+## 📈 Key Performance Indicators (KPIs)
 
+| KPI | Value |
+|------|-------|
+| 💰 Total Sales | **161.25** |
+| 💵 Total Unit Price | **95.85** |
+| 🛒 Total Orders | **620** |
+| ⭐ Average Customer Rating | **4.80** |
+| 📈 Average Sales | **17.45** |
 
-**Data Modeling**:
+---
 
-**📊 Restaurant Sales Dashboard – Key Analysis Performed**:
+## 📊 Key Analysis Performed
 
-**🍔 Top Selling Products**:
+### 🍺 Top Selling Products
 
-Craft Beer emerged as the highest-selling product with 32.50 total sales.
+- Craft Beer generated the highest sales (**32.50**).
+- House Wine ranked second (**28.40**).
+- Sparkling Water ranked third (**22.80**).
 
-House Wine ranked second with 28.40 total sales.
+---
 
-Sparkling Water secured third place with 22.80 total sales.
+### 🍽️ Category-wise Sales
 
-These top three products contributed significantly to overall restaurant revenue.
+- **Beverages:** 95.85 (59.5%)
+- **Food:** 65.40 (40.5%)
 
-**🍽️ Category-wise Sales Analysis**:
+Beverages contributed the highest share of total revenue.
 
-Beverages generated the highest revenue with 95.85 sales (59.5% of total sales).
+---
 
-Food contributed 65.40 sales (40.5% of total sales).
+### 🚚 Order Type Analysis
 
-Beverage items were the primary revenue drivers for the restaurant.
+- Delivery – 72.60 (45%)
+- Dine-in – 56.40 (35%)
+- Takeaway – 32.25 (20%)
 
-**🚚 Order Type Analysis**:
+Delivery was the most preferred ordering method.
 
+---
 
-Delivery recorded the highest sales with 72.60 (45%).
+### ⭐ Customer Rating Analysis
 
-Dine-in contributed 56.40 (35%).
+- Craft Beer – 4.9 ⭐
+- House Wine – 4.8 ⭐
+- Sparkling Water – 4.7 ⭐
 
-Takeaway accounted for 32.25 (20%).
+Higher customer ratings aligned with higher sales performance.
 
-Delivery was the most preferred ordering method among customers.
+---
 
-**⭐ Customer Rating Analysis**:
+### 📅 Sales Trend Analysis
 
-Craft Beer received the highest average rating of 4.9/5.
+#### Daily Sales
 
-House Wine followed with 4.8/5.
+- Highest Sales Day: Day 18 (9.80)
+- Lowest Sales Day: Day 20 (5.40)
 
-Sparkling Water maintained a strong customer rating of 4.7/5.
+#### Monthly Sales
 
-Highly rated products also achieved higher sales, indicating strong customer satisfaction.
+- Highest Month: November (7.52)
+- Second Highest: July (7.45)
+- Lowest Month: December (5.71)
 
-**📅 Daily Sales Analysis**:
+#### Quarterly Sales
 
+- Q3 – Highest Average Sales (6.81)
+- Q4 – Second Highest (6.68)
+- Q1 – Lowest (6.24)
 
-Highest Sales Day: Day 18 with 9.80 sales.
+---
 
-Lowest Sales Day: Day 20 with 5.40 sales.
+## 💡 Business Insights
 
-Daily sales remained stable, with noticeable peaks during high-demand periods.
+- Craft Beer was the best-selling and highest-rated product.
+- Beverage category generated nearly 60% of total sales.
+- Delivery accounted for 45% of total orders.
+- November achieved the highest monthly sales.
+- Q3 recorded the strongest quarterly performance.
+- Customer ratings showed a positive relationship with product sales.
+- Sales trend analysis helps optimize inventory and marketing strategies.
 
-**📈 Monthly Sales Analysis**:
+---
 
+## 🚀 Project Highlights
 
-Highest Sales Month: November with 7.52 sales.
+- Developed an interactive Power BI dashboard.
+- Performed data cleaning and transformation using Power Query.
+- Created DAX measures for KPI calculations.
+- Designed dynamic visualizations with slicers and filters.
+- Analyzed sales trends, customer behavior, and product performance.
+- Delivered actionable business insights for decision-making.
 
-Second Highest: July with 7.45 sales.
+---
 
-Lowest Sales Month: December with 5.71 sales.
+## 📷 Dashboard Preview
 
-Sales increased steadily throughout the year before declining slightly in December.
+> Add your dashboard screenshot below.
 
-**📊 Quarterly Sales Analysis**:
+![Restaurant Sales Dashboard](Restaurant_Sales_Dashboard.png)
 
+---
 
-Q3 recorded the highest average sales (6.81).
+## 📂 Repository Structure
 
-Q4 followed with 6.68.
+```
+Restaurant-Sales-Analytics/
+│── README.md
+│── Restaurant_Sales_Dashboard.pbix
+│── Restaurant_Sales_Dashboard.png
+│── Restaurant_Sales_Dataset.xlsx
+│── Restaurant_Sales_Dataset.csv
+```
 
-Q1 had the lowest average sales (6.24).
+---
 
-The third quarter showed the strongest business performance.
+## 🎯 Conclusion
 
-**💡 Business Insights**:
+This project demonstrates how Power BI can transform raw restaurant sales data into meaningful visual insights. By analyzing customer behavior, product performance, and sales trends, the dashboard supports strategic business decisions, improves operational efficiency, and enhances customer satisfaction.
 
-💰 Total Sales: 161.25
+---
 
-💵 Total Unit Price: 95.85
+## ⭐ Skills Demonstrated
 
-📈 Average Sales: 17.45
-
-🍺 Craft Beer was the highest-selling and highest-rated menu item.
-
-🥤 Beverages contributed 59.5% of the total sales.
-
-🚚 Delivery was the most preferred order type, accounting for 45% of all orders.
-
-📅 Day 18 achieved the highest daily sales (9.80).
-
-📈 November was the best-performing month (7.52).
-
-📊 Q3 delivered the highest quarterly sales performance (6.81).
-
-🎯 The dashboard helps identify top-performing products, customer preferences, sales trends, and ordering patterns, enabling better inventory management and data-driven business decisions.
-
-
-
-
-
-
-
-
+**Power BI • DAX • Power Query • SQL • Python (Pandas) • Excel • Data Cleaning • Data Visualization • Business Intelligence • Dashboard Development**
