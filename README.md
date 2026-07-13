@@ -138,21 +138,6 @@ Higher customer ratings aligned with higher sales performance.
 ![Uploading WhatsApp Image 2026-07-12 at 20.10.16 (1).jpeg…]()
 
 
----
-
-## 📂 Repository Structure
-
-```
-Restaurant-Sales-Analytics/
-│── README.md
-│── Restaurant_Sales_Dashboard.pbix
-│── Restaurant_Sales_Dashboard.png
-│── Restaurant_Sales_Dataset.xlsx
-│── Restaurant_Sales_Dataset.csv
-```
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates how Power BI can transform raw restaurant sales data into meaningful visual insights. By analyzing customer behavior, product performance, and sales trends, the dashboard supports strategic business decisions, improves operational efficiency, and enhances customer satisfaction.
