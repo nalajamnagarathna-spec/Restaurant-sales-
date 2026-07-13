@@ -135,7 +135,8 @@ Higher customer ratings aligned with higher sales performance.
 
 > Add your dashboard screenshot below.
 
-![Restaurant Sales Dashboard](Restaurant_Sales_Dashboard.png)
+![Uploading WhatsApp Image 2026-07-12 at 20.10.16 (1).jpeg…]()
+
 
 ---
 
